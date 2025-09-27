@@ -1,5 +1,5 @@
 from random import *
-
+#test
 while True:
   maxn = 100
   n = randint(1, maxn)
